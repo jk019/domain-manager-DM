@@ -1,0 +1,27 @@
+/* Add your global styles here */
+.btn-warning{
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.btn-cancel{
+    background-color: gray;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.btn-delete{
+    background-color: darkred;
+    color: white;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+.abstand{
+    margin-top: 1%;
+    margin-bottom: 3%;
+}
